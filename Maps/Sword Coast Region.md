@@ -5,9 +5,9 @@ tags: [tiny-d6,map]
 ```leaflet
 id: the-sword-coast-region
 image: Sword-Coast-Map.jpg
-lat: 28
-long: 53
-defaultZoom: 9
+lat: 42
+long: 83
+defaultZoom: 8
 heigh1t: 700px
 draw: false
 scale: 400

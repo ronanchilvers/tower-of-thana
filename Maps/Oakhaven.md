@@ -8,7 +8,8 @@ id: oakhaven-map
 image: Oakhaven.png
 lat: 50
 long: 50
-defaultZoom: 8
+defaultZoom: 7
 draw: false
 scale: 400
+height: 650px
 ```
